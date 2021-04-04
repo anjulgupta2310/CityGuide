@@ -27,12 +27,12 @@ using google maps.
 
 
 
-# Screenshots
+## Screenshots
 <p>
 
 <img width="300" src="screenshots/signup.jpeg" alt="Signup Page" >
 
-<img width="300" src="screenshots/google_sign_in.jpeg" alt="Google Signin Popup" >
+<img width="300" src="screenshots/google_sign_in.png" alt="Google Signin Popup" >
 
 
 <img width="300" src="screenshots/guide.jpeg" alt="Guide" >
